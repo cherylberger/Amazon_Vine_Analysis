@@ -14,6 +14,8 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Shoes_v1_00.ts
 #### Deliverable 1
 Perform a cloud based ETL on Amazon Product Reviews using AWS RDS database and upload the DataFrames into tables in PgAdmin
  - Extract the Amazon Review dataset as a DataFrame
+ - ![image](https://user-images.githubusercontent.com/94234511/159126987-1bc8b808-dec7-40b5-ac9c-430e4fb74222.png)
+
 
  - Transform the extracted dataset into four seperate DataFrames
  
