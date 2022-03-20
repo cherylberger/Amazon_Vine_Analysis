@@ -41,7 +41,7 @@ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_EL
 ![image](https://user-images.githubusercontent.com/94234511/159149730-906ff874-5a78-4178-a5dc-1042be862184.png)
 
  #### Review ID Table 
- 
+ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Images/review%20id%20table.png
  
  #### Customers Table 
  https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Images/customers%20table.png
