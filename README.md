@@ -3,12 +3,11 @@
 ## Data Analytics Module 16 - Big Data
 
 ### Overview
-This project analyzes customer reviews by members of the paid Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.  
-The analysis uses PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, load the transformed data into pgAdmin for generate 4 seperate tables of the customer data.  We will use PySpark to calculate various metrics and determine if there is a bias toward favorable reviews for Vine members.  This analysis will focus on US reviews for shoes gathered from amazonaws.com.
+This project analyzes customer reviews by members of the paid Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members. The analysis uses PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, load the transformed data into pgAdmin for generate 4 seperate tables of the customer data.  We will use PySpark to calculate various metrics and determine if there is a bias toward favorable reviews for Vine members.  This analysis will focus on US reviews for shoes gathered from amazonaws.com.
 
 ### Resources
-Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
-Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Shoes_v1_00.tsv.gz
+- Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
+- Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Shoes_v1_00.tsv.gz
 
 ### Results
 
