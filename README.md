@@ -45,9 +45,12 @@ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_EL
  
  #### Customers Table 
  
+ 
  #### Products ID Table
  
+ 
  #### Vine Table 
+
 
 
 #### Deliverable 2
@@ -55,6 +58,8 @@ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_EL
 Using PySpark determine if there is any bias toward the reviews written as part of the Vine program. Discuss if having a paid Vine review makes a difference in the percentage of 5-star reviews.
 
 https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb
+
+![image](https://user-images.githubusercontent.com/94234511/159149796-5880d6fa-d373-463b-b3aa-7f8e2d4a9b63.png)
 
 ![image](https://user-images.githubusercontent.com/94234511/159148146-5d79c6b1-7846-4de4-a321-d87ba4db9641.png)
 ![image](https://user-images.githubusercontent.com/94234511/159148173-896e0dbc-f5c1-404f-9af1-960133b00774.png)
