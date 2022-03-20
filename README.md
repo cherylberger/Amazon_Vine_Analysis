@@ -50,14 +50,14 @@ Using PySpark determine if there is any bias toward the reviews written as part 
 ![image](https://user-images.githubusercontent.com/94234511/159148173-896e0dbc-f5c1-404f-9af1-960133b00774.png)
 ![image](https://user-images.githubusercontent.com/94234511/159148195-23f7879a-9a48-4ed7-b63e-8d9e8e98c5f1.png)
 
-* - How many Vine reviews and Non-vine reviews were there? * 
-  ** There were 22 Vine reviews and 26,987 Non-vine reviews **
+#### How many Vine reviews and Non-vine reviews were there? 
+   - There were 22 Vine reviews and 26,987 Non-vine reviews.
+ 
+#### How many Vine reviews were 5 stars?  How many Non-vine reviews were 5 stars?
+   - There were 13 Vine reviews with 5 star ratings.  There were 14,475 Non-vine reviews with 5 star ratings. 
 
-- How many Vine reviews were 5 stars?  How many Non-vine reviews were 5 stars?
-There were 13 Vine reviews with 5 star ratings.  There were 14,475 Non-vine reviews with 5 star ratings. 
-
-- What percentage of Vine reviews were 5 stars?  What percentage of Non-vine reviews were 5 stars?
-Of the total Vine reviews, 59.09% had 5 star ratings while the Non-vine reviews had slightly less, 53.64% 5 star rated reviews.
+#### What percentage of Vine reviews were 5 stars?  What percentage of Non-vine reviews were 5 stars?
+   - Of the total Vine reviews, 59.09% had 5 star ratings while the Non-vine reviews had slightly less, 53.64% 5 star rated reviews.
 
 ### Summary
 
