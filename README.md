@@ -37,7 +37,9 @@ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_EL
  ![image](https://user-images.githubusercontent.com/94234511/159149392-07790811-ce00-422f-84a8-495f6fb53427.png)
 
  - Load all four DataFrames into their respective tables in PgAdmn. The images below reflect the output of the SQL query used to verify that the data was loaded into each table 
- - 
+
+![image](https://user-images.githubusercontent.com/94234511/159149730-906ff874-5a78-4178-a5dc-1042be862184.png)
+
  #### Review ID Table 
  
  
