@@ -15,7 +15,7 @@ Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_S
 #### Deliverable 1
 
 Perform a cloud based ETL on Amazon Product Reviews using AWS RDS database and upload the DataFrames into tables in PgAdmin.
-
+https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ELT.ipynb
  - Extract the Amazon Review dataset as a DataFrame
  
  ![image](https://user-images.githubusercontent.com/94234511/159126987-1bc8b808-dec7-40b5-ac9c-430e4fb74222.png)
