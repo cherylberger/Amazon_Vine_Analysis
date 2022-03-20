@@ -44,7 +44,7 @@ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_EL
  
  
  #### Customers Table 
- 
+ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Images/customers%20table.png
  
  #### Products ID Table
  
