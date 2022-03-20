@@ -3,28 +3,44 @@
 ## Data Analytics Module 16 - Big Data
 
 ### Overview
+This project analyzes customer reviews by members of the paid Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.  
+The analysis uses PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, load the transformed data into pgAdmin for generate 4 seperate tables of the customer data.  We will use PySpark to calculate various metrics and determine if there is a bias toward favorable reviews for Vine members.  This analysis will focus on US reviews for shoes gathered from amazonaws.com.
 
 ### Resources
-
-
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Shoes_v1_00.tsv.gz
+Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
+Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Shoes_v1_00.tsv.gz
 
 ### Results
 
 #### Deliverable 1
+
 Perform a cloud based ETL on Amazon Product Reviews using AWS RDS database and upload the DataFrames into tables in PgAdmin
  - Extract the Amazon Review dataset as a DataFrame
  - ![image](https://user-images.githubusercontent.com/94234511/159126987-1bc8b808-dec7-40b5-ac9c-430e4fb74222.png)
-
 
  - Transform the extracted dataset into four seperate DataFrames
  
  - Load all four DataFrames into their respective tables in PgAdmin
 
+
+
+
 #### Deliverable 2
+
 Using PySpark determine if there is any bias toward the reviews written as part of the Vine program. Discuss if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+
+- ![image](https://user-images.githubusercontent.com/94234511/159148146-5d79c6b1-7846-4de4-a321-d87ba4db9641.png)
+- 
+- ![image](https://user-images.githubusercontent.com/94234511/159148173-896e0dbc-f5c1-404f-9af1-960133b00774.png)
+
+- ![image](https://user-images.githubusercontent.com/94234511/159148195-23f7879a-9a48-4ed7-b63e-8d9e8e98c5f1.png)
+
 - How many Vine reviews and Non-vine reviews were there?
+
+
 - How many Vine reviews were 5 stars?  How many Non-vine reviews were 5 stars?
+
+
 - What percentage of Vine reviews were 5 stars?  What percentage of Non-vine reviews were 5 stars?
 
 ### Summary
