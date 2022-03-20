@@ -25,17 +25,21 @@ https://github.com/cherylberger/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_EL
  - Transform the extracted dataset into four seperate DataFrames.  The images of the DataFrame from Google Colab Notebook are shown below. 
  
  #### Review ID Table DataFrame
- 
+ ![image](https://user-images.githubusercontent.com/94234511/159149385-a7b7c21e-0bfd-4c7a-97c2-ec4be187bd55.png)
+
  #### Customers Table DataFrame
- 
+ ![image](https://user-images.githubusercontent.com/94234511/159149360-22d28ef1-5511-41f9-a523-9b1116dafafd.png)
+
  #### Products ID Table DataFrame
- 
+ ![image](https://user-images.githubusercontent.com/94234511/159149378-01527f60-d4a0-467f-beb7-a260737a2762.png)
+
  #### Vine Table DataFrame 
- 
- 
- - Load all four DataFrames into their respective tables in PgAdmin/  The images below reflect the output of the SQL query used to verify that the data was loaded into teach table 
+ ![image](https://user-images.githubusercontent.com/94234511/159149392-07790811-ce00-422f-84a8-495f6fb53427.png)
+
+ - Load all four DataFrames into their respective tables in PgAdmn. The images below reflect the output of the SQL query used to verify that the data was loaded into each table 
  - 
  #### Review ID Table 
+ 
  
  #### Customers Table 
  
